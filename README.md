@@ -70,6 +70,3 @@ Branch2-Router
 
  Ping test from Branch Host (⁠10.20.1.10⁠) to DMZ Server (⁠172.16.10.10⁠) -> 100% Succes
  <img width="727" height="305" alt="image" src="https://github.com/user-attachments/assets/66924480-0b8f-4a22-a1e9-c8630aec0bf4" />
-
-  
-  permit ip 172.16.10.0 0.0.0.255 10.20.0.0 0.255.255.255
